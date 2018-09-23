@@ -1,1 +1,2 @@
-pytho is very easy to learn
+python 
+is very easy to learn
